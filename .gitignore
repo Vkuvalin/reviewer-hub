@@ -1,0 +1,12 @@
+# Local IDE state
+/.idea/
+
+# Private project bindings, memory and working materials
+/projects/
+
+# Generated output and reports, including misplaced root folders
+output/
+reports/
+
+# Temporary Command Center / Codex review artifacts
+/docs/codex/
