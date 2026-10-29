@@ -10,3 +10,6 @@ reports/
 
 # Temporary Command Center / Codex review artifacts
 /docs/codex/
+
+# Bytecode from the offline example
+__pycache__/
