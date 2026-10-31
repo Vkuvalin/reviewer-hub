@@ -5,10 +5,10 @@
 **Независимая проверка решений, контекста и результатов работы с AI.**
 
 ![Markdown](https://img.shields.io/badge/Markdown-181717?style=flat-square&logo=markdown)
-![Context engineering](https://img.shields.io/badge/Context_engineering-0F766E?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-0F766E?style=flat-square)
 ![Browser retrieval](https://img.shields.io/badge/Browser_retrieval-2563EB?style=flat-square)
 
-[Задача](#зачем-нужен-reviewer) · [Пример](#инженерный-кейс) · [Устройство](#как-устроен-hub) · [Работа с вебом](#как-reviewer-читает-историю) · [Личный вклад](#личный-вклад)
+[Задача](#зачем-нужен-reviewer) · [Пример](#инженерный-кейс) · [Устройство](#как-устроен-hub) · [Работа с вебом](#как-reviewer-читает-историю) · [Реализовано](#реализовано)
 
 </div>
 
@@ -129,7 +129,7 @@ flowchart TD
 
 Это результаты исходных проверок в использованной среде. Описание сохраняет принятый подход к чтению и восстановлению контекста.
 
-## Личный вклад
+## Реализовано
 
 - Спроектирована роль независимого рецензента и её место в Command Center.
 - Разделены контракт роли, справочник внешнего процесса и проектная память.
